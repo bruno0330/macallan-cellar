@@ -505,10 +505,11 @@ input,select,textarea{background:var(--surface2);color:var(--fg);border:0;border
     document.querySelectorAll(".rv").forEach(el=>{ if(el.getBoundingClientRect().top>innerHeight){ el.classList.add("pre"); io.observe(el); } });
   }
 
+  const withTimeout = (p, ms) => Promise.race([p, new Promise(res=>setTimeout(()=>res(undefined), ms))]);
   render();
   (async ()=>{
-    try{ const user = await window.claude?.use?.("user"); const c = user ? await user.can("data.write") : null; if(c===false) canWrite=false; }catch(e){}
-    db = await window.claude?.use?.("db");
+    try{ const user = await withTimeout(window.claude?.use?.("user"), 2500); const c = user ? await user.can("data.write") : null; if(c===false) canWrite=false; }catch(e){}
+    db = await withTimeout(window.claude?.use?.("db"), 2500);
     if(!db){
       canWrite=false;
       try{ let d=window.__DATA; if(!d){ const r=await fetch("data.json",{cache:"no-store"}); if(!r.ok) throw 0; d=await r.json(); } meta={...meta,...d.meta}; bottles=d.bottles||[]; hasData=true; render(); }
