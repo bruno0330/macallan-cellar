@@ -16,6 +16,7 @@
    "conf": "high",
    "gHigh": 4,
    "gLow": -3,
+   "img": "imgs/arabica.png",
    "mktGBP": 77.4,
    "mktTWD": 4699,
    "name": "Intense Arabica",
@@ -24,7 +25,8 @@
    "series": "Harmony 系列",
    "spec": "700ml / 44%",
    "twSrc": "酒條通 2026-10（買酒網 5,900）",
-   "id": "arabica"
+   "id": "arabica",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2019-09-01",
@@ -32,6 +34,7 @@
    "conf": "mid",
    "gHigh": 4,
    "gLow": 1,
+   "img": "imgs/aurora.png",
    "mktGBP": 100,
    "mktTWD": 3280,
    "name": "Aurora",
@@ -40,7 +43,8 @@
    "series": "台灣免稅限定",
    "spec": "1L / 40%",
    "twSrc": "巷弄洋酒 1L 售價（原價 4,500）",
-   "id": "aurora"
+   "id": "aurora",
+   "imgSrc": "Moodie Davitt Report"
   },
   {
    "buyDate": "2025-09-05",
@@ -48,6 +52,7 @@
    "conf": "mid",
    "gHigh": 5,
    "gLow": 1,
+   "img": "imgs/boutique2017.jpg",
    "mktGBP": 400,
    "mktTWD": null,
    "name": "Boutique Collection 2017",
@@ -56,7 +61,8 @@
    "series": "Boutique 台灣機場限定",
    "spec": "700ml / 56.8%",
    "twSrc": "",
-   "id": "boutique2017"
+   "id": "boutique2017",
+   "imgSrc": "Master of Malt"
   },
   {
    "buyDate": "2024-05-18",
@@ -64,6 +70,7 @@
    "conf": "mid",
    "gHigh": 3,
    "gLow": 0,
+   "img": "imgs/classiccut2023.png",
    "mktGBP": 77.4,
    "mktTWD": 3700,
    "name": "Classic Cut 2023",
@@ -72,7 +79,8 @@
    "series": "Classic Cut 年度限量",
    "spec": "700ml / 50.3%",
    "twSrc": "同系列 2024／2025 版台灣售價 3,625–3,740（2023 版已無報價）",
-   "id": "classiccut2023"
+   "id": "classiccut2023",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "",
@@ -80,6 +88,7 @@
    "conf": "mid",
    "gHigh": 5,
    "gLow": 2,
+   "img": "imgs/concept2.jpg",
    "mktGBP": 120,
    "mktTWD": null,
    "name": "Concept Number 2（2019）",
@@ -88,7 +97,8 @@
    "series": "Concept 概念系列",
    "spec": "700ml / 40%",
    "twSrc": "",
-   "id": "concept2"
+   "id": "concept2",
+   "imgSrc": "Master of Malt"
   },
   {
    "buyDate": "2026-02-27",
@@ -96,6 +106,7 @@
    "conf": "mid",
    "gHigh": 6,
    "gLow": 3,
+   "img": "imgs/forties.jpg",
    "mktGBP": 260,
    "mktTWD": null,
    "name": "Forties（Travel Series）",
@@ -104,7 +115,8 @@
    "series": "Travel Series",
    "spec": "500ml / 40%",
    "twSrc": "",
-   "id": "forties"
+   "id": "forties",
+   "imgSrc": "Master of Malt"
   },
   {
    "buyDate": "2026-08-23",
@@ -113,6 +125,7 @@
    "conf": "low",
    "gHigh": 4,
    "gLow": -3,
+   "img": "imgs/greenmeadow.png",
    "mktGBP": 110,
    "mktTWD": null,
    "name": "Green Meadow",
@@ -121,7 +134,8 @@
    "series": "Harmony 系列",
    "spec": "700ml / 40.2%",
    "twSrc": "",
-   "id": "greenmeadow"
+   "id": "greenmeadow",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2025-03-19",
@@ -130,6 +144,7 @@
    "conf": "high",
    "gHigh": 4,
    "gLow": -3,
+   "img": "imgs/guardianoak.png",
    "mktGBP": 180,
    "mktTWD": 5950,
    "name": "Guardian Oak",
@@ -138,7 +153,8 @@
    "series": "Harmony 系列",
    "spec": "700ml / 44.2%",
    "twSrc": "宸瀧煙酒 2026-10（買酒網 6,990）",
-   "id": "guardianoak"
+   "id": "guardianoak",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2025-11-21",
@@ -147,6 +163,7 @@
    "conf": "high",
    "gHigh": 4,
    "gLow": -3,
+   "img": "imgs/jinghoney.png",
    "mktGBP": 130,
    "mktTWD": 5230,
    "name": "鳳凰單叢蜜蘭香 Phoenix Honey Orchid",
@@ -155,7 +172,8 @@
    "series": "Harmony 系列",
    "spec": "700ml / 43.9%",
    "twSrc": "宸瀧煙酒 2026-10（酒條通 5,399、買酒網 5,900；台灣建議售價 5,980）",
-   "id": "jinghoney"
+   "id": "jinghoney",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2025-11-14",
@@ -164,6 +182,7 @@
    "conf": "high",
    "gHigh": 4,
    "gLow": -3,
+   "img": "imgs/jinglapsang.png",
    "mktGBP": 170,
    "mktTWD": 6160,
    "name": "金駿眉煙燻紅茶 Cherrywood Lapsang",
@@ -172,7 +191,8 @@
    "series": "Harmony 系列",
    "spec": "700ml / 44.9%",
    "twSrc": "宸瀧煙酒 2026-10",
-   "id": "jinglapsang"
+   "id": "jinglapsang",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2018-01-15",
@@ -180,6 +200,7 @@
    "conf": "mid",
    "gHigh": 3,
    "gLow": 0,
+   "img": "imgs/lumina.png",
    "mktGBP": 80,
    "mktTWD": null,
    "name": "Lumina",
@@ -188,7 +209,8 @@
    "series": "Quest 免稅系列",
    "spec": "700ml / 41.3%",
    "twSrc": "",
-   "id": "lumina"
+   "id": "lumina",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2025-06-07",
@@ -196,6 +218,7 @@
    "conf": "low",
    "gHigh": 5,
    "gLow": 2,
+   "img": "imgs/riverspey.jpg",
    "mktGBP": 250,
    "mktTWD": null,
    "name": "Home Collection River Spey",
@@ -204,7 +227,8 @@
    "series": "Home Collection",
    "spec": "700ml / 44.8%",
    "twSrc": "",
-   "id": "riverspey"
+   "id": "riverspey",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2026-02-27",
@@ -212,6 +236,7 @@
    "conf": "high",
    "gHigh": 8,
    "gLow": 4,
+   "img": "imgs/sherry10-old.jpg",
    "mktGBP": 222,
    "mktTWD": null,
    "name": "10 年 Sherry Oak（舊標）",
@@ -220,7 +245,8 @@
    "series": "Sherry Oak 舊標",
    "spec": "700ml / 40%",
    "twSrc": "",
-   "id": "sherry10-old"
+   "id": "sherry10-old",
+   "imgSrc": "Master of Malt"
   },
   {
    "buyDate": "2025-11-08",
@@ -228,6 +254,7 @@
    "conf": "mid",
    "gHigh": 5,
    "gLow": 2,
+   "img": "imgs/sherry12-110.png",
    "mktGBP": 145,
    "mktTWD": 7300,
    "name": "12 年 Sherry Oak 110 Proof",
@@ -236,7 +263,8 @@
    "series": "Sherry Oak",
    "spec": "750ml / 55%",
    "twSrc": "FindPrice 台灣酒商 2026-10",
-   "id": "sherry12-110"
+   "id": "sherry12-110",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2026-02-27",
@@ -244,6 +272,7 @@
    "conf": "low",
    "gHigh": 6,
    "gLow": 3,
+   "img": "imgs/sherry12-old.jpg",
    "mktGBP": 110,
    "mktTWD": null,
    "name": "12 年 Sherry Oak（舊標）",
@@ -252,7 +281,8 @@
    "series": "Sherry Oak 舊標",
    "spec": "700ml / 40%",
    "twSrc": "",
-   "id": "sherry12-old"
+   "id": "sherry12-old",
+   "imgSrc": "Master of Malt"
   },
   {
    "buyDate": "2018-01-15",
@@ -260,6 +290,7 @@
    "conf": "high",
    "gHigh": 3,
    "gLow": 0,
+   "img": "imgs/terra.png",
    "mktGBP": 120,
    "mktTWD": 4800,
    "name": "Terra",
@@ -268,7 +299,8 @@
    "series": "Quest 免稅系列",
    "spec": "700ml / 43.8%",
    "twSrc": "巷弄洋酒／世達酒業 2026-09（台灣報價 4,800–5,500）",
-   "id": "terra"
+   "id": "terra",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2026-08-18",
@@ -276,6 +308,7 @@
    "conf": "high",
    "gHigh": 6,
    "gLow": -2,
+   "img": "imgs/toastedcoconut.png",
    "mktGBP": 150,
    "mktTWD": 6880,
    "name": "Toasted Coconut",
@@ -284,7 +317,8 @@
    "series": "Harmony 系列",
    "spec": "700ml / 43.3%",
    "twSrc": "宸瀧煙酒 2026-10",
-   "id": "toastedcoconut"
+   "id": "toastedcoconut",
+   "imgSrc": "The Macallan 官方網站"
   },
   {
    "buyDate": "2025-01-18",
@@ -293,6 +327,7 @@
    "conf": "high",
    "gHigh": 4,
    "gLow": -3,
+   "img": "imgs/vibrantoak.png",
    "mktGBP": 110,
    "mktTWD": 5290,
    "name": "Vibrant Oak",
@@ -301,7 +336,8 @@
    "series": "Harmony 系列",
    "spec": "700ml / 44.2%",
    "twSrc": "宸瀧煙酒 2026-10（買酒網 5,900）",
-   "id": "vibrantoak"
+   "id": "vibrantoak",
+   "imgSrc": "The Macallan 官方網站"
   }
  ]
 }
